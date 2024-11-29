@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(20, 206, 126);
+ text-align: center;
+ 
+ }
+ 
+ button{
+    width:85px;
+    height:85px ;
+    background-color:rgb(190, 20, 20) ;
+    border-radius: 16px;
+ 
+ }
